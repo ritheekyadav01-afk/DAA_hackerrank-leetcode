@@ -2,5 +2,5 @@
 
 D. Ritheek (25WU0102057), B.Tech AI & ML, Woxsen University
 
-- `LeetCode_Ritheek.docx`: profile, 15 solved problems and Accepted screenshots
-- `HackerRank_Ritheek.docx`: profile, 10 solved problems and submissions screenshots
+- `hackerrank/`: `HackerRank_Ritheek.docx` and `.pdf` (profile, 10 solved problems, submissions screenshots)
+- `leetcode/`: `LeetCode_Ritheek.docx` and `.pdf` (profile, 15 solved problems, Accepted screenshots)
